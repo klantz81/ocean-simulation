@@ -6,8 +6,12 @@ The original blog posts can be found here:
 * http://www.keithlantz.net/2011/11/ocean-simulation-part-two-using-the-fast-fourier-transform/
 * http://www.keithlantz.net/2011/10/ocean-simulation-part-one-using-the-discrete-fourier-transform/
 
+## Install 
+After installing openGL and libsdl, run command
 
-# License
+    ./install.sh
+
+## License
 The MIT License (MIT)
 
 Copyright (c) 2015 Keith Lantz
